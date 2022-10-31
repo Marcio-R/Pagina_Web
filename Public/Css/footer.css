@@ -1,0 +1,16 @@
+footer{
+    text-align: center;
+    border-top:1px solid rgb(97, 97, 245);
+    padding: 20px;
+    width: 75%;
+    margin: auto;
+    text-transform: lowercase;
+}
+
+footer section span:first-child{
+    color: rgb(158, 76, 240);
+}
+
+footer section span:last-child{
+    color: rgb(54, 196, 240);
+}
